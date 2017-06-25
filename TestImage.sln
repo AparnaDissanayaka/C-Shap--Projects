@@ -12,7 +12,7 @@ Global
 		{C376F22C-0C51-4040-A8F2-128B99380BF9}.Debug|x86.ActiveCfg = Debug|x86
 		{C376F22C-0C51-4040-A8F2-128B99380BF9}.Debug|x86.Build.0 = Debug|x86
 		{C376F22C-0C51-4040-A8F2-128B99380BF9}.Release|x86.ActiveCfg = Release|x86
-		{C376F22C-0C51-4040-A8F2-128B99380BF9}.Release|x86.Build.0 = Release|x86
+		{C376F22C-0C51-4040-A8F2-128B99382BF9}.Release|x86.Build.0=Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
